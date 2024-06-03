@@ -2,3 +2,17 @@ body    {
     background-color: antiquewhite;
     padding: 20px;
 }
+
+h1  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+h2  {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: blueviolet;
+}
+
+footer  {
+    color: grey;
+}
